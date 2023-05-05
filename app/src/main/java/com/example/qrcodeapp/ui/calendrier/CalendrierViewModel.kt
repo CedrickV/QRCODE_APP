@@ -1,4 +1,4 @@
-package com.example.qrcodeapp.ui.dashboard
+package com.example.qrcodeapp.ui.calendrier
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

@@ -1,4 +1,4 @@
-package com.example.qrcodeapp.ui.notifications
+package com.example.qrcodeapp.ui.options
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
